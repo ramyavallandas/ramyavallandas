@@ -2,10 +2,10 @@
 
 - 🔭 I’m currently working on my DSA.
 - 🌱 I’m currently learning Backend Development.
-- 👯 I’m looking to collaborate on open souce.
+- 👯 I’m looking to collaborate on an open source.
 - 💬 Ask me about Software Engineering.
 - 📫 How to reach me: [Instagram](https://www.instagram.com/ramyavallandas/) [Linkedin](https://www.linkedin.com/in/ramyavallandas/)
-- ⚡ Fun fact: I have six toes.
+- ⚡ Fun fact: I was born with six toes.
 
 <br />
 

@@ -4,7 +4,6 @@
 - 🌱 I’m currently doing an Inventory Management System using NLP.
 - 👯 I’m looking to collaborate on an open source.
 - 💬 Ask me about Software Engineering.
-- 📫 How to reach me: [Instagram](https://www.instagram.com/ramyavallandas/) [Linkedin](https://www.linkedin.com/in/ramyavallandas/)
 - ⚡ Fun fact: I was born with six toes.
 
 <br />

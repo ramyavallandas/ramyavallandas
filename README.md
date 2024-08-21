@@ -1,9 +1,9 @@
 ## Hello!! I'm Ramya 👋
 
 - 🔭 I’m currently working on my DSA.
-- 🌱 I’m currently doing an Inventory Management System using NLP.
+
 - 👯 I’m looking to collaborate on an open source.
-- 💬 Ask me about Software Engineering.
+
 - ⚡ Fun fact: I was born with six toes.
 
 <br />
